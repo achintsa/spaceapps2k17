@@ -1,6 +1,7 @@
 #spaceapps2k17
 
 Nasa Space Apps Challenge 2017 by Team Sigma Impact (Contributors achintsa,dangerCoders, shikhar022)
+Must visit for better perspective: https://2017.spaceappschallenge.org/challenges/our-ecological-neighborhood/our-planet-our-home/teams/sigma-impact/project
 
 What it does? Bringing people into perspective about the natural calamities we have imposed on the environment.
 Why?? Because people are ignorant of the fact what they do to the environment.We want people to realize how humans collectively have harmed nature to a dangerous situation, with very slight chances of return to normal.
